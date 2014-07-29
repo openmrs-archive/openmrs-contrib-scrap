@@ -1,7 +1,7 @@
 <?php
 
 # Basic JIRA information
-$host = "tickets.openmrs.org";
+$host = "issues.openmrs.org";
 $pid = 10186;
 $issuetype = 6;
 
@@ -21,6 +21,7 @@ if ($version[0] == "1.8.0") $jiraVersion = 13080;
 if ($version[0] == "1.9.4") $jiraVersion = 16301;
 if ($version[0] == "1.9.5") $jiraVersion = 16316;
 if ($version[0] == "1.9.7") $jiraVersion = 16323;
+if ($version[0] == "1.9.8") $jiraVersion = 16322;
 
 else $jiraVersion = 13079;
 
