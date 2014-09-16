@@ -22,6 +22,7 @@ if ($version[0] == "1.9.4") $jiraVersion = 16301;
 if ($version[0] == "1.9.5") $jiraVersion = 16316;
 if ($version[0] == "1.9.7") $jiraVersion = 16323;
 if ($version[0] == "1.9.8") $jiraVersion = 16322;
+if ($version[0] == "1.10.0") $jiraVersion = 12565;
 
 else $jiraVersion = 13079;
 
