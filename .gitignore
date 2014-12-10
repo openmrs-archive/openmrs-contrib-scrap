@@ -65,11 +65,3 @@ nb-configuration.xml
 !.gitattributes
 *~
 #############
-
-### OpenMRS Files ###
-/webapp/activemq-data
-/webapp/src/main/webapp/WEB-INF/tags/module
-/webapp/src/main/webapp/WEB-INF/dwr-modules.xml
-/webapp/src/main/webapp/WEB-INF/module_messages*
-/web/WEB-INF/dwr-modules.xml
-#############
